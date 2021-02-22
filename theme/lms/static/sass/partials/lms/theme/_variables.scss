@@ -8,8 +8,6 @@ $yellow: #ffc107 !default;
 $green: #127852 !default;
 $teal: #008080 !default;
 $cyan: #17a2b8 !default;
-$gray: $gray-700;
-$gray-dark: $gray-900;
 
 
 $primary: #a7002d !default;
@@ -19,7 +17,7 @@ $info: $cyan !default;
 $warning: $yellow !default;
 $danger: $red !default;
 $light: $gray-300 !default;
-$dark: $gray-dark !default;
+$dark: $gray-900 !default;
 // Theme fonts
 $font-family-title: Plex;
 $serif: Crimson;
